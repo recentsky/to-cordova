@@ -1,0 +1,15 @@
+{
+  "short_name": "Recentsky",
+  "name": "Recentsky",
+  "icons": [
+    {
+      "src": "./images/logo-icon.png",
+      "type": "image/png",
+      "sizes": "172x172"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5"
+}
